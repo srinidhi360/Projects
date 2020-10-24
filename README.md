@@ -1,2 +1,3 @@
 # Projects
-Machine Learning projects done by me
+
+Few of the selected projects completed end-to-end.
