@@ -1,4 +1,4 @@
-Data Dictionary
+#### Data Dictionary
 There are multiple variables in the dataset which can be cleanly divided in 3 categories:
 
 Demographic information about customers
